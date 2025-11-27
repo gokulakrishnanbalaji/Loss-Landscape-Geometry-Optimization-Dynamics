@@ -4,6 +4,8 @@ Course: M.Tech Data Science and AI
 
 **Make sure to check the report, I have written detailed explanation on my apporach and observed results**
 
+**report link:** https://github.com/gokulakrishnanbalaji/Loss-Landscape-Geometry-Optimization-Dynamics/blob/main/DA24M007_problem3_fourkite_report.pdf (link to attached file in above repo)
+
 ## Problem Statement 3
 
 Loss Landscape Geometry &amp; Optimization Dynamics
